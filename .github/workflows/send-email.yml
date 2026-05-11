@@ -3,6 +3,9 @@ name: Send one scheduled email
 permissions:
   contents: write
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 on:
   schedule:
     # 24 runs/day at random minutes in IST (converted to UTC)
