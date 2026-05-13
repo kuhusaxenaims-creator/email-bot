@@ -71,8 +71,7 @@ Hey {Name},<br><br>
     Keen to work together!
   </p>
 
-  <img src="[https://tensorflow.org/images/surf.jpg](https://tensorflow.org/images/surf.jpg)" alt="UMBR - High Impact Billboard Campaigns"/>
-  
+<img src="https://tensorflow.org/images/surf.jpg" alt="UMBR - High Impact Billboard Campaigns" width="520" style="display: block; max-width: 100%; border-radius: 6px;"/>  
   <br><br>
 
   <p>
